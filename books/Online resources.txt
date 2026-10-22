@@ -1,0 +1,13 @@
+Report 1
+
+Reading on laws and regulations worldwide: https://github.com/EthicalML/awesome-artificial-intelligence-regulation
+Online free practical course on Ethical AI Principles: https://ethics-of-ai.mooc.fi/
+
+Paper Taxonomy of risks by LLMs : https://dl.acm.org/doi/epdf/10.1145/3531146.3533088 
+The What-If Tool: Interactive Probing of Machine Learning Models paper https://arxiv.org/pdf/1907.04135
+
+Report 2
+
+Awesome list of tools for AI Ethics: https://github.com/brandonhimpfen/awesome-ai-ethics
+Metrics for LLMs: https://latitude.so/blog/top-7-metrics-for-ethical-llm-evaluation
+A Python library for ML Security: https://adversarial-robustness-toolbox.org/
